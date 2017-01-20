@@ -7,8 +7,13 @@ The purpose of this repository is to keep track of issues in the app, or feature
 
 ##Download the app
 
-#Tap for Keep
-<a target="_blank" href='https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.queep'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='240'/></a>
+###Tap for Keep
+<a target="_blank" href='https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.queep'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='160'/></a>
 
-#Tap for Todoist
-<a target="_blank" href='https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.tap42doist'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='240'/></a>
+###Tap for Todoist
+<a target="_blank" href='https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.tap42doist'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='160'/></a>
+
+<!--
+###Tap for TickTick
+<a target="_blank" href='https://play.google.com/store/apps/details?id=jahirfiquitiva.apps.tap4tick'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='160'/></a>
+-->
